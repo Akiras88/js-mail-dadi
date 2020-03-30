@@ -3,7 +3,7 @@
  */
 
 /**
- * VARIABLE
+ * VARIABLES
  */
 
 var mail = [ 'michele@boolean.careers', 'fabio@boolean.careers', 'roberto@boolean.careers', 
@@ -26,3 +26,4 @@ if(userFound == true) {
 }else {
     console.log('Errore di autentificazione');
 }
+
